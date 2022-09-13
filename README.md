@@ -1,4 +1,6 @@
 # Assignment 1: Git and GitHub Basics #
+//Name: Kaleemuddin.
+//CSUN ID:203160210
 
 The purpose of this assigmment is to give you a basic working knowledge of `git` and [GitHub](https://github.com/), especially as they relate to code reviews.
 This may seem intimidating at first, but it quickly becomes second nature.
